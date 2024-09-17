@@ -40,7 +40,6 @@ CREATE TABLE Certificates (
 
 -- Create indexes for improved query performance
 CREATE INDEX idx_subscription_packages_is_active ON SubscriptionPackages(is_active);
-CREATE INDEX idx_payments_user_id ON Payments(user_id);
 CREATE INDEX idx_payments_subscription_id ON Payments(subscription_id);
 CREATE INDEX idx_payments_package_id ON Payments(package_id);
 CREATE INDEX idx_certificates_user_id ON Certificates(user_id);
