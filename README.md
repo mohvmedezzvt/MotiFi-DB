@@ -1,6 +1,6 @@
 # MotiFi-DB
 
-This repository contains the documentation for setting up and managing the MotiFi database.
+This repository contains the documentation for setting up and managing the MotiFi database, to view the ERD click: [MotiFi Database ERD](https://app.eraser.io/workspace/r0nmflZDxR5oUC9GVqAl?origin=share)
 
 ## Table of Contents
 
